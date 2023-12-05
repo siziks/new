@@ -1,0 +1,43 @@
+@media screen and (max-width: 768px) {
+	.header {
+		background: #2F80ED;
+	}
+	.item__link{
+		font-size: 16px;
+	}
+	.practical__item {
+		width: 35%;
+	}
+	.header__about{
+		padding-top: 4%;
+		padding-left: 5%;
+		padding-bottom: 5%;
+		width: 100%;
+	    display: flex;
+	    justify-content: space-evenly;
+	}
+	.block__foto {
+		width: 30%;
+	}
+	.header__block{
+		width: 35%;
+	}
+	.header__block{
+		margin-left: 2%;
+	}
+	.block__attribute {
+		font-size: 18px;
+	}
+	.expierence {
+		background: #e0f9f5;
+	}
+	.expierence__subtitle{
+		font-size: 32px;
+	}
+	.header__button{
+		font-size: 16px;
+	}
+	.expierence__picture{
+		width: 70%;
+	}
+}
